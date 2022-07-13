@@ -1,4 +1,9 @@
 # forInternshipCpp
-This is an example of my cpp project
 
-In this repository you can find directory with code of my project and a short video which contains a general information about principals of its work. 
+###proton_detection
+
+In this directory you can find code of my project which uses OOP and inhereting of some frameworks classes. Additionally there is a short video which contains a general information about principals of its work. 
+
+###Spectrum
+
+In this directory you can find code with project which also uses OOP and represents own app with qt graphics and json output.
