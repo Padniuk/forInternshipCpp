@@ -1,0 +1,29 @@
+{
+	"general":{
+		"emin":10,
+		"emax":10000,
+		"shift":300
+	},
+	"background":{
+		"par1":1000,
+		"par2":0.001,
+		"par3":-0.01,
+		"par4":100
+	},
+	"peaks":[
+		{
+			"par1":1000,
+			"par2":3000,
+			"par3":400,
+			"parametric": false
+		},
+		{
+			"par1":1000,
+			"par2":5000,
+			"par3":50,
+			"par4":0.1,
+			"parametric": true
+		}
+	],
+	"noise": true
+}
