@@ -1,8 +1,0 @@
-/home/padniuk/Desktop/proton_detection/build/CMakeFiles/sim.dir
-/home/padniuk/Desktop/proton_detection/build/CMakeFiles/simulation.dir
-/home/padniuk/Desktop/proton_detection/build/CMakeFiles/edit_cache.dir
-/home/padniuk/Desktop/proton_detection/build/CMakeFiles/rebuild_cache.dir
-/home/padniuk/Desktop/proton_detection/build/CMakeFiles/list_install_components.dir
-/home/padniuk/Desktop/proton_detection/build/CMakeFiles/install.dir
-/home/padniuk/Desktop/proton_detection/build/CMakeFiles/install/local.dir
-/home/padniuk/Desktop/proton_detection/build/CMakeFiles/install/strip.dir
